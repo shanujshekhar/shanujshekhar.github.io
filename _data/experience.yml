@@ -1,13 +1,12 @@
 - company: Mozilla Fix-The-Internet Open Lab (Spring)
-  link: https://builders.mozilla.community/index.html
   dates: April 2020 – June 2020
   job_title: Builder/Developer @ Open Lab (Internship)
   description: |
-    Developed an online platform for matching donation related resources like food, clothing etc.using relevant tweets. 
+    Website: <a href="https://help-for-all.herokuapp.com/">https://help-for-all.herokuapp.com/</a>
     
-    The website lists dona-tion/request tweets location wise, based on search. Website: <a href="https://help-for-all.herokuapp.com/">https://help-for-all.herokuapp.com/</a>
+    Developed an online platform for matching donation related resources like food, clothing etc.using relevant tweets. The website lists dona-tion/request tweets location wise, based on search. 
     
-    Implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification), with an accuracy of 80%, after parsing them using standard NLP techniques
+    Implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification), with an accuracy of 80%, after parsing them using standard NLP techniques.
     
     Languages and Tools Used: Python, HTML/CSS/Javascript, Flask, Heroku 
 
@@ -17,13 +16,9 @@
   dates: June 2018
   job_title: Summer Intern
   description: |
-    Text Detection in Images
+    _Text Detection in Images_
     
-    In this project, text detected from Microprocessor pin diagrams using Tesseract Tool (Tesseract is an optical character recognition engine for various operating systems) is used for improving the text detection accuracy.
-    
-    Extracted text from Microprocessor Pin Diagram images acts as input for generation of Bayesian Network (Dlib library).
-    
-    Using Posterior Probability concept text accuracy was improved.
+    In this project, text detected from Microprocessor pin diagrams using Tesseract Tool (Tesseract is an optical character recognition engine for various operating systems) is used for improving the text detection accuracy. Extracted text from Microprocessor Pin Diagram images acts as input for generation of Bayesian Network (Dlib library). Using Posterior Probability concept text accuracy was improved.
     
     Languages and Tools Used: C++, Microsoft Visual Studio 2017, Tesseract
 
@@ -32,15 +27,11 @@
   dates: June 2017
   job_title: Research Intern
   description: |
-    Reusable Hybrid Test Automation Framework for Web Based Scrum Project
+    _Reusable Hybrid Test Automation Framework for Web Based Scrum Project_
     
-    Project done on Amazon, Flipkart e-commerce websites.
+    Project done on Amazon, Flipkart e-commerce websites. Performed automation testing using Selenium Tool. The primary focus of this framework is to ensure reusability and maintainability of test scripts so as to speed up the testing process of web applications.
     
-    Performed automation testing using Selenium Tool.
-    
-    The primary focus of this framework is to ensure reusability and maintainability of test scripts so as to speed up the testing process of web applications.
-    
-    <a href="http://www2.tku.edu.tw/~tkjse/21-3/catology.htm">Publication Link/</a>
+    Research Paper Published: <a href="http://www2.tku.edu.tw/~tkjse/21-3/catology.htm">Publication Link</a>
     
     Languages and Tools Used: Java, Eclipse IDE, Selenium 2.0
     
