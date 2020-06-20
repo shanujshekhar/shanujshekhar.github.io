@@ -8,6 +8,9 @@ title: Stony Brook Graduate Student
 email: shanuj.shekhar@stonybrook.edu
 website: https://shanujshekhar.github.io
 
+# Dark Mode (true/false/never)
+darkmode: true
+
 # Social links
 twitter_username: shanuj
 github_username:  shanujshekhar
