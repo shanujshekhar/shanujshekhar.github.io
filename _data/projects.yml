@@ -37,9 +37,71 @@
   dates: January 2020
   github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
   description: |
-    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world.
+    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world. My application has two modes: a build mode and a game mode and application starts with a menu of two buttons displaying the two modes.
     
     Topic: Virtual Reality
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
+
+- layout: top-middle
+  name: Knowledge-backed Generation Model Using Post-Modifier Dataset (PoMo)
+  dates: November 2019
+  github: shanujshekhar/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  quote: >
+   I have generated phrases to describe an entity in a sentence using Natural Language Processing and Natural Language Understanding
+  description: |
+    
+    Post-modifier is a short descriptive phrase that comes after a word (usually a noun) in a sentence which gives more detailed contextual information about that word. Post modifier generation model has two sub tasks - selecting a set of facts or claims about the concerned entity (WikiData) and from that set selecting the most relevant fact to generate a post modifier that contextually describes it.(POMO Dataset)
+    
+    The task of post modifier generation requires to automatically generate a post modifier phrase describing the target entity (an entity essentially refers to a noun but here we only consider people) that contextually fits in the input sentence. Model Architecture - Bi-LSTM (2 layer) model with attention function
+    
+    Topic: Machine Learning, Recurrent Neural Networks
+    
+    Languages and Tools Used: Python, scikit, sklearn
+
+- layout: top-middle
+  name: Augmented Reality Video Game using Unity Tool
+  dates: January 2020
+  github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
+  description: |
+    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world. My application has two modes: a build mode and a game mode and application starts with a menu of two buttons displaying the two modes.
+    
+    Topic: Virtual Reality
+    
+    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
+
+- layout: top-middle
+  name: Emotion Recognition for Real-Time Feedback
+  dates: June 2019
+  github: shanujshekhar/Emotion_Recognition
+  description: |
+    This project titled “Emotion Recognition for Real-Time Feedback” performs facial expression analysis in near real-time from a live webcam feed. It classifies human expressions into 8 different classes (Happy, Sad, Angry, Contempt, Disgust, Fear, Surprise, Neutral) with an accuracy of 67% .
+    
+    Topic: Machine Learning, Support Vector Machine
+    
+    Languages and Tools Used: Python, scikit, sklearn
+
+- layout: top-middle
+  name: Term Frequency per Inverse Document Frequency
+  dates: Febraury 2017
+  github: shanujshekhar/TFIDF
+  quote: >
+    A numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus
+  description: |
+    Calculated the term frequency for terms present in 2000 documents. (Dataset- http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip). Found the top 10 most important terms for each document.
+    
+    Topic: Virtual Reality
+    
+    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
+
+- layout: top-middle
+  name: Augmented Reality Video Game using Unity Tool
+  dates: January 2020
+  github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
+  description: |
+    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world. My application has two modes: a build mode and a game mode and application starts with a menu of two buttons displaying the two modes.
+    
+    Topic: Data Mining
+    
+    Languages and Tools Used: Java, Eclipse IDE
     
