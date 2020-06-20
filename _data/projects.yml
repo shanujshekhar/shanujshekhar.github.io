@@ -6,6 +6,7 @@
     We are developing a smart IoT climate control system and would like to leverage machine learning techniques for occupancy prediction (based on incoming sensor data, what is the probability that a room will be occupied in the next 5 minutes, 15 minutes, or 1 hour) and for damper actuation (based on incoming sensor data and temperature target, when should heating/cooling be turned on and which heating/cooling dampers should be actuated).
     
     Topic: Machine Learning
+    
     Languages and Tools Used: Python, Deep Neural Networks, PyTorch
 
 - layout: top-middle
@@ -17,6 +18,7 @@
     We are developing a smart IoT climate control system and would like to leverage machine learning techniques for occupancy prediction (based on incoming sensor data, what is the probability that a room will be occupied in the next 5 minutes, 15 minutes, or 1 hour) and for damper actuation (based on incoming sensor data and temperature target, when should heating/cooling be turned on and which heating/cooling dampers should be actuated).
     
     Topic: Data Visualization, Front-end Development
+    
     Languages and Tools Used: Python, D3.js, HTML, CSS, Javascript, Flask
 
 - layout: top-middle
@@ -27,6 +29,7 @@
     I have used Random Forest Classifier to identify intoxicated individuals according to their TAC labels and detect drinking episodes using accelerometer samples from their mobile devices.
     
     Topic: Machine Learning
+    
     Languages and Tools Used: Python, scikit, sklearn
     
 - layout: top-middle
@@ -37,5 +40,6 @@
     I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world.
     
     Topic: Virtual Reality
+    
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
     
