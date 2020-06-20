@@ -1,10 +1,15 @@
-- name: Bristol University
-  dates: 2010 - 2013
+- name: State University of New York at Stony Brook
+  dates: August 2019 - December 2020 (Expected)
+  qualification: Masters in Computer and Information Science
   description: |
-    During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-    we mainly focused on software development and the principles of programming I use a lot of these skills to
-    my advantage in my day to day work.
+    GPA: 3.61 / 4.00
+    
+    Graduate Coursework: Machine Learning; Visualization; Analysis of Algorithms; NLP; Operating Systems; Virtual Reality
 
-    While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-    as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-    transport and designing posters to organising a trip to Portugal for over 30 students.
+- name: Dr. B.R.Ambedkar National Institute of Technology
+  dates: August 2015 - May 2019
+  qualification: Bachelor of Technology in Computer Science and Engineering
+  description: |
+    GPA: 8.53 / 10.00
+    
+    Undergraduate Coursework: Data Mining; Data Structures and Algorithms; AI; Advanced Programming Concepts Using Java; Agile Soft-ware Development
