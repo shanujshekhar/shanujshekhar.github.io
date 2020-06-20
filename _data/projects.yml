@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Smart IoT Climate Control System
   dates: January 2020 - Ongoing
-  github: shanujshekhar
+  github: shanujshekhar/Smart-IOT-Climate-Control-System
   description: |
     We are developing a smart IoT climate control system and would like to leverage machine learning techniques for occupancy prediction (based on incoming sensor data, what is the probability that a room will be occupied in the next 5 minutes, 15 minutes, or 1 hour) and for damper actuation (based on incoming sensor data and temperature target, when should heating/cooling be turned on and which heating/cooling dampers should be actuated).
     
@@ -55,9 +55,9 @@
     
     The task of post modifier generation requires to automatically generate a post modifier phrase describing the target entity (an entity essentially refers to a noun but here we only consider people) that contextually fits in the input sentence. Model Architecture - Bi-LSTM (2 layer) model with attention function
     
-    Topic: Machine Learning, Recurrent Neural Networks
+    Topic: Natural Language Processing, Recurrent Neural Networks
     
-    Languages and Tools Used: Python, scikit, sklearn
+    Languages and Tools Used: Python, scikit-learn, numpy
 
 - layout: top-middle
   name: Emotion Recognition for Real-Time Feedback
@@ -68,7 +68,20 @@
     
     Topic: Machine Learning, Support Vector Machine
     
-    Languages and Tools Used: Python, scikit, sklearn
+    Languages and Tools Used: Python, scikit-learn, numpy, OpenCV
+
+- layout: top-middle
+  name: Interactive Space Exploration Video Game in Virtual Reality using Unity Tool
+  dates: March 2020
+  github: shanujshekhar/Space_Exploration_Game_Unity_Tool
+  quote: >
+    Designed Virtual Scene of Solar System consisting of Sun, Moon, Stars, cargo-ship, spaceship, etc. (Modelled using Blender 2.8).
+  description: |
+    Implemented features like gravity, switching cameras of game, revolving and rotational motion of planets, driving spaceship. Spaceship is equipped with the state-of-the-art selection ray which can pick-up and move objects using VR controllers. Used these rays to retrieve the cargo boxes released into space by the cargo-ship. Designed a greenhouse on a Planet where I made the player do some random tasks like aligning cargo boxes, etc. Designed teleportation tube to teleport into the greenhouse.
+    
+    Topic: Virtual Reality
+    
+    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Oculus Quest (HMD, 64GB)
 
 - layout: top-middle
   name: Term Frequency per Inverse Document Frequency
@@ -84,13 +97,47 @@
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
 
 - layout: top-middle
-  name: Augmented Reality Video Game using Unity Tool
-  dates: January 2020
-  github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
+  name: Chat-Application
+  dates: June 2016
+  github: shanujshekhar/Chat_Application
+  quote: >
+    Server-Client side scripting of Chat Application
   description: |
-    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world. My application has two modes: a build mode and a game mode and application starts with a menu of two buttons displaying the two modes.
+    Topic: Web Development
     
-    Topic: Data Mining
+    Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
+
+- layout: top-middle
+  name: Relation Classification in NLP
+  dates: October 2019
+  github: shanujshekhar/Relation_Classification_in_NLP
+  description: |
+    Given 10 predefined relations like cause-effect, product-producer, etc, the goal was to define the relation and the direction of the relation b/w 2 entities in a sentence. I did this relation classification task in Python using Tensorflow library. I already had the pre-trained word embedding (glove) to train the data available. I had to setup Parts of Speech tag embedding and parse the shortest dependancy path b/w the 2 entities to build the model and then generate predictions.
     
-    Languages and Tools Used: Java, Eclipse IDE
+    Topic: Natural Language Processing, Convolutional Neural Networks
     
+    Languages and Tools Used: Python, scikit-learn, numpy
+
+- layout: top-middle
+  name: Machine Learning Algorithms from scratch
+  dates: January 2020
+  github: shanujshekhar/ML_Algorithms_from_scratch_python
+  description: |
+    Implementation of Machine Learning Algorithms in python from scratch. This repository contains the implementations of popular Machine Learning Algorithms in python without using in-built libraries. 
+    (1) Perceptron Learning Algorithm (perceptron.py); (2) Adaptive Boosting Algorithm (adaBoost.py); (3) K-Means Clustering (kmeans.py); (4) K Nearest Neighbour Classifier (knn.py); (5) Support Vector Machine Classifier (svm.py)
+    
+    Topic: Machine Learning
+    
+    Languages and Tools Used: Python, scikit-learn, numpy
+
+- layout: top-middle
+  name: Visual Data Analytics
+  dates: April 2020
+  link: https://www.youtube.com/watch?v=tTgrkyfKcsM&t=3s
+  github: shanujshekhar/Visual_Data_Analytics
+  description: |
+    Performing common visual data analytic tasks using Python and D3.js. I performed Principal Component Analysis, Multi-Dimensional Scaling alongwith random & stratified sampling. Visualizaed scatter plot matrix, scree plot and elbow plot.
+    
+    Topic: Data Visualization
+    
+    Languages and Tools Used: Python, D3.js, Flask, HTML, CSS Javascript
