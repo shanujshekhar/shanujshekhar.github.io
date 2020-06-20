@@ -60,17 +60,6 @@
     Languages and Tools Used: Python, scikit, sklearn
 
 - layout: top-middle
-  name: Augmented Reality Video Game using Unity Tool
-  dates: January 2020
-  github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
-  description: |
-    I have designed a game in which a user can interactively build an augmented 3D scene on a planar surface in the real world. My application has two modes: a build mode and a game mode and application starts with a menu of two buttons displaying the two modes.
-    
-    Topic: Virtual Reality
-    
-    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
-
-- layout: top-middle
   name: Emotion Recognition for Real-Time Feedback
   dates: June 2019
   github: shanujshekhar/Emotion_Recognition
