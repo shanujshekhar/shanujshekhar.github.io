@@ -68,7 +68,7 @@ more_content: |
       box-shadow: 0 0 10px #2187e7b3;
     }
     .bar span{
-      height: 2px;
+      height: 10px;
       float: left;
       background: #2187e7;
     }
@@ -102,25 +102,12 @@ more_content: |
   
   <div class="skills">
     <li>
-      <h5>Java</h5><span class="bar"><span class="java"></span></span>
+      <h4>Java</h4><span class="bar"><span class="java"></span></span>
     </li>
     <li>
-      <h5>Python</h5><span class="bar"><span class="python"></span></span>
+      <h4>Python</h4><span class="bar"><span class="python"></span></span>
     </li>
   </div>
-
-  When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
-  mountain biking, road cycling, kitesuring and landboarding as well as trying to make time for things like
-  rock climbing and playing some rugby. Since my time at Uni I have become a very keen Kitesurfer and freestyle
-  Landboarder. In 2014 I competed and won the amateur landboard British powerkite tour.
-
-  I'm interested in photography and videography as I like to be creative, this is mainly through sport but
-  I enjoy landscape and abstract photography too. I like to showcase my work on my website and instagram if
-  you would like to take a look -
-  [jwgmedia.co.uk](http://jwgmedia.co.uk/) / [jameswgrant](https://www.instagram.com/jameswgrant/).
-
-  Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
-  Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
 
 
 # Projects Section
