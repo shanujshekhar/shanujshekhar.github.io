@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 name: Shanuj Shekhar
 title: Stony Brook Graduate Student
 email: shanuj.shekhar@stonybrook.edu
-website: https://shanujshekhar.github.io
+# website: https://shanujshekhar.github.io
+resume: https://shanujshekhar.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
