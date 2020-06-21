@@ -52,8 +52,7 @@ more_content: |
     .skills{
       list-style: none;
       padding: 0;
-      width: 500px;
-      margin: 60px auto;
+      width: 400px;
       color: white;
     }
     .skills li{
@@ -62,7 +61,7 @@ more_content: |
     .bar{
       background: #353b48;
       display: block;
-      height: 5px;
+      height: 10px;
       border: 1px solid rgba(0,0,0,0.3);
       border-radius: 3px;
       overflow: hidden;
