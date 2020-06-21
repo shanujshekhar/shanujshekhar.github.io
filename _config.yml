@@ -23,11 +23,6 @@ linkedin_username: shanujshekhar
 # youtube_username:
 # googleplus_username:
 
-additional_links:
-- title: Link name
-  icon: fa-twitter
-  url: https://google.com
-  
 # About Section
 # about_title: About Me
 about_profile_image: images/jg.jpg
