@@ -44,12 +44,20 @@ about_content: |
   <mark>git</mark> and
   <mark>AWS</mark> services.
   
-  <div class="skills">
+  <style>
+  .bar{
+    background: #353b48;
+    display: block;
+    height: 2px;
+  }
+  </style>
+  
+  <div class="skills" style="width:50px; margin:60px auto; color:white;">
     <h3>My Skills</h3>
-    <li>
+    <li style="margin: 20px 0;">
       <h5>Java</h5><span class="bar"><span class="java"></span></span>
     </li>
-    <li>
+    <li style="margin: 20px 0;">
       <h5>Python</h5><span class="bar"><span class="python"></span></span>
     </li>
   </div>
