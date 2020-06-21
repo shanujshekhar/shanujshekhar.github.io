@@ -70,7 +70,7 @@ more_content: |
     .bar span{
       height: 10px;
       float: left;
-      background: #2187e7;
+      background: #e6e6e6;
     }
     .java{
       width: 90%;
