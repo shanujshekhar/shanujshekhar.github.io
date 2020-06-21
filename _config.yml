@@ -44,12 +44,15 @@ about_content: |
   <mark>git</mark> and
   <mark>AWS</mark> services.
   
-  <li>
-    <h5>Java</h5><span class="bar"><span class="java"></span></span>
-  </li>
-  <li>
-    <h5>Python</h5><span class="bar"><span class="python"></span></span>
-  </li>
+  <div class="skills">
+    <h3>My Skills</h3>
+    <li>
+      <h5>Java</h5><span class="bar"><span class="java"></span></span>
+    </li>
+    <li>
+      <h5>Python</h5><span class="bar"><span class="python"></span></span>
+    </li>
+  </div>
 
 # Projects Section
 # projects_title: Projects
