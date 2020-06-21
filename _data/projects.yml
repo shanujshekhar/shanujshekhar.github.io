@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Smart IoT Climate Control System
   dates: January 2020 - Ongoing
   github: shanujshekhar/Smart-IOT-Climate-Control-System
@@ -9,7 +9,7 @@
     
     Languages and Tools Used: Python, Deep Neural Networks, PyTorch
 
-- layout: top-middle
+- layout: right
   name: D3 Visualization of COVID-19 Pandemic
   dates: March 2020
   link: https://www.youtube.com/watch?v=3fKE13DtB70&feature=youtu.be
@@ -21,7 +21,7 @@
     
     Languages and Tools Used: Python, D3.js, HTML, CSS, Javascript, Flask
 
-- layout: top-middle
+- layout: left
   name: Detect Heavy Drinking Episodes
   dates: February 2020
   github: shanujshekhar/Detect_Heavy_Drinking_Episodes
@@ -32,7 +32,7 @@
     
     Languages and Tools Used: Python, scikit, sklearn
     
-- layout: top-middle
+- layout: right
   name: Augmented Reality Video Game using Unity Tool
   dates: January 2020
   github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
@@ -43,7 +43,7 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
 
-- layout: top-middle
+- layout: left
   name: Knowledge-backed Generation Model Using Post-Modifier Dataset (PoMo)
   dates: November 2019
   github: shanujshekhar/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
@@ -59,7 +59,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy
 
-- layout: top-middle
+- layout: right
   name: Emotion Recognition for Real-Time Feedback
   dates: June 2019
   github: shanujshekhar/Emotion_Recognition
@@ -70,7 +70,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy, OpenCV
 
-- layout: top-middle
+- layout: left
   name: Interactive Space Exploration Video Game in Virtual Reality using Unity Tool
   dates: March 2020
   github: shanujshekhar/Space_Exploration_Game_Unity_Tool
@@ -83,7 +83,7 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Oculus Quest (HMD, 64GB)
 
-- layout: top-middle
+- layout: right
   name: Term Frequency per Inverse Document Frequency
   dates: Febraury 2017
   github: shanujshekhar/TFIDF
@@ -96,7 +96,7 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
 
-- layout: top-middle
+- layout: left
   name: Chat-Application
   dates: June 2016
   github: shanujshekhar/Chat_Application
@@ -107,7 +107,7 @@
     
     Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
 
-- layout: top-middle
+- layout: right
   name: Relation Classification in NLP
   dates: October 2019
   github: shanujshekhar/Relation_Classification_in_NLP
@@ -118,7 +118,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy
 
-- layout: top-middle
+- layout: left
   name: Machine Learning Algorithms from scratch
   dates: January 2020
   github: shanujshekhar/ML_Algorithms_from_scratch_python
@@ -130,7 +130,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy
 
-- layout: top-middle
+- layout: right
   name: Visual Data Analytics
   dates: April 2020
   link: https://www.youtube.com/watch?v=tTgrkyfKcsM&t=3s
