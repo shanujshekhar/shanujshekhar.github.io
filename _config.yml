@@ -45,19 +45,35 @@ about_content: |
   <mark>AWS</mark> services.
   
   <style>
-  .bar{
-    background: #353b48;
-    display: block;
-    height: 2px;
-  }
+    .skills{
+      width: 500px;
+      margin 60px auto;
+      color: white;
+    }
+    .skills li{
+      margin: 20px 0;
+    }
+    .bar{
+      background: #353b48;
+      display: block;
+      height: 2px;
+      border: 1px solid rgba(0,0,0,0.3);
+      border-radius: 3px;
+      overflow: hidden;
+      box-shadow: 0 0 10px #2187e7b3;
+    }
+    .bar span{
+      height: 2px;
+      float: left;
+    }
   </style>
   
-  <div class="skills" style="width:50px; margin:60px auto; color:white;">
+  <div class="skills">
     <h3>My Skills</h3>
-    <li style="margin: 20px 0;">
+    <li>
       <h5>Java</h5><span class="bar"><span class="java"></span></span>
     </li>
-    <li style="margin: 20px 0;">
+    <li>
       <h5>Python</h5><span class="bar"><span class="python"></span></span>
     </li>
   </div>
