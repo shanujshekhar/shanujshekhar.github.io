@@ -48,7 +48,7 @@ about_content: |
 # More Section
 more_title: Skills
 more_content: |
-   <style>
+  <style>
     .skills{
       width: 500px;
       margin 60px auto;
@@ -97,7 +97,7 @@ more_content: |
         width: 80%;
       }
     }
-  </style>
+    </style>
   
   <div class="skills">
     <h3>My Skills</h3>
