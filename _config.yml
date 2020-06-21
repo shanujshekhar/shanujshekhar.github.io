@@ -27,23 +27,7 @@ linkedin_username: shanujshekhar
 # about_title: About Me
 about_profile_image: images/jg.jpg
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web and mobile app developer with over 6 years experience, based in the South West.
-  I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
-
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
-  <mark>ES6 Javascript</mark>,
-  <mark>React &amp; Redux</mark>,
-  <mark>Java</mark>,
-  <mark>PHP</mark>,
-  <mark>MySQL</mark>,
-  <mark>Symfony</mark>,
-  <mark>Android</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark> services.
-  
+  Hi, my name is Shanuj Shekhar and I currently pursuing Masters Degree in Computer Science from Stony Brook University. I am fron India and I have completed my undergrad studies in my home country.  
 
 # More Section
 more_title: Skills
@@ -102,10 +86,10 @@ more_content: |
   
   <div class="skills">
     <li>
-      <h4>Java</h4><span class="bar"><span class="java"></span></span>
+      <h5>Java</h5><span class="bar"><span class="java"></span></span>
     </li>
     <li>
-      <h4>Python</h4><span class="bar"><span class="python"></span></span>
+      <h5>Python</h5><span class="bar"><span class="python"></span></span>
     </li>
   </div>
 
