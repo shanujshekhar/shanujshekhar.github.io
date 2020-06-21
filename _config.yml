@@ -45,7 +45,10 @@ about_content: |
   <mark>AWS</mark> services.
   
   <li>
-    <h3>Java</h3><span class="bar"><span class="java"></span></span>
+    <h5>Java</h5><span class="bar"><span class="java"></span></span>
+  </li>
+  <li>
+    <h5>Python</h5><span class="bar"><span class="python"></span></span>
   </li>
 
 # Projects Section
