@@ -44,7 +44,11 @@ about_content: |
   <mark>git</mark> and
   <mark>AWS</mark> services.
   
-  <style>
+
+# More Section
+more_title: Skills
+more_content: |
+   <style>
     .skills{
       width: 500px;
       margin 60px auto;
@@ -56,7 +60,7 @@ about_content: |
     .bar{
       background: #353b48;
       display: block;
-      height: 2px;
+      height: 5px;
       border: 1px solid rgba(0,0,0,0.3);
       border-radius: 3px;
       overflow: hidden;
@@ -105,18 +109,6 @@ about_content: |
     </li>
   </div>
 
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-more_title: When I'm Not Programming
-more_content: |
   When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
   mountain biking, road cycling, kitesuring and landboarding as well as trying to make time for things like
   rock climbing and playing some rugby. Since my time at Uni I have become a very keen Kitesurfer and freestyle
@@ -129,6 +121,17 @@ more_content: |
 
   Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
   Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
 
 # Footer
 footer_show_references: false
