@@ -118,7 +118,12 @@
       {%- endif -%}
       {%- if site.website -%}
         <p>
-          {{ site.website_title | default: "WebSite" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          {{ site.website_title | default: "Website" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.resume -%}
+        <p>
+          {{ site.website_title | default: "Resume" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
     </div>
