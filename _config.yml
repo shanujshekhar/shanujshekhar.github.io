@@ -50,8 +50,10 @@ more_title: Skills
 more_content: |
   <style>
     .skills{
+      list-style: none;
+      padding: 0;
       width: 500px;
-      margin 60px auto;
+      margin: 60px auto;
       color: white;
     }
     .skills li{
@@ -100,7 +102,6 @@ more_content: |
     </style>
   
   <div class="skills">
-    <h3>My Skills</h3>
     <li>
       <h5>Java</h5><span class="bar"><span class="java"></span></span>
     </li>
