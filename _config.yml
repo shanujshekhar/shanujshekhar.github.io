@@ -62,8 +62,12 @@ more_content: |
       animation: java 2s;
     }
     .python{
-      width: 80%;
+      width: 85%;
       animation: python 2s;
+    }
+    .csharp{
+      width: 45%;
+      animation: csharp 2s;
     }
     .cplus{
       width: 70%;
@@ -72,6 +76,10 @@ more_content: |
     .c{
       width: 40%;
       animation: c 2s;
+    }
+    .front_end{
+      width: 85%;
+      animation: front_end 2s;
     }
     
     @keyframes java{
@@ -90,6 +98,14 @@ more_content: |
         width: 80%;
       }
     }
+    @keyframes csharp{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 45%;
+      }
+    }
     @keyframes cplus{
       0%{
         width: 0%;
@@ -106,6 +122,15 @@ more_content: |
         width: 40%;
       }
     }
+    @keyframes front-end{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 85%;
+      }
+    }
+    
     /* Create two equal columns that floats next to each other */
     .column {
       float: left;
@@ -136,8 +161,14 @@ more_content: |
       <li>
         <p>Python</p><span class="bar"><span class="python"></span></span>
       </li>
+      <li>
+        <p>C#</p><span class="bar"><span class="csharp"></span></span>
+      </li>
     </div>
     <div class="column">
+      <li>
+        <p>HTML/CSS/Javascript</p><span class="bar"><span class="front_end"></span></span>
+      </li>
       <li>
         <p>C++</p><span class="bar"><span class="cplus"></span></span>
       </li>
