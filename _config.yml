@@ -45,14 +45,14 @@ more_content: |
     .bar{
       background: #353b48;
       display: block;
-      height: 10px;
+      height: 15px;
       border: 1px solid rgba(0,0,0,0.3);
       border-radius: 3px;
       overflow: hidden;
       box-shadow: 0 0 10px #2187e7b3;
     }
     .bar span{
-      height: 10px;
+      height: 15px;
       float: left;
       background: #e6e6e6;
     }
@@ -160,7 +160,7 @@ more_content: |
   <div class="skills">
     <div class="column">
       <li>
-        <p>Java</p><div style="float:right;">90%</div><span class="bar">90%<span class="java"></span></span>
+        <p>Java</p><div style="float:right;">90%</div><span class="bar"><span class="java"></span></span>
       </li>
       <li>
         <p>Python</p><div style="float:right;">85%</div><span class="bar"><span class="python"></span></span>
