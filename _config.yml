@@ -36,7 +36,7 @@ more_content: |
     .skills{
       list-style: none;
       padding: 0;
-      width: 400px;
+      width: 100%;
       color: white;
     }
     .skills li{
