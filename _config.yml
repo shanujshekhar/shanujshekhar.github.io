@@ -161,24 +161,23 @@ more_content: |
     <div class="column">
       <li>
         <p>Java</p><div style="float:right;">90%</div><span class="bar"><span class="java"></span></span>
-        
       </li>
       <li>
-        <p>Python</p><span class="bar"><span class="python"></span></span>
+        <p>Python</p><div style="float:right;">85%</div><span class="bar"><span class="python"></span></span>
       </li>
       <li>
-        <p>C#</p><span class="bar"><span class="csharp"></span></span>
+        <p>C#</p><div style="float:right;">45%</div><span class="bar"><span class="csharp"></span></span>
       </li>
     </div>
     <div class="column">
       <li>
-        <p>HTML/CSS/Javascript</p><span class="bar"><span class="front_end"></span></span>
+        <p>HTML/CSS/Javascript</p><div style="float:right;">85%</div><span class="bar"><span class="front_end"></span></span>
       </li>
       <li>
-        <p>C++</p><span class="bar"><span class="cplus"></span></span>
+        <p>C++</p><div style="float:right;">70%</div><span class="bar"><span class="cplus"></span></span>
       </li>
       <li>
-        <p>C</p><span class="bar"><span class="c"></span></span>
+        <p>C</p><div style="float:right;">40%</div><span class="bar"><span class="c"></span></span>
       </li>
     </div>
   </div>
