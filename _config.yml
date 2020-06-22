@@ -86,10 +86,10 @@ more_content: |
   
   <div class="skills">
     <li>
-      <h5>Java</h5><span class="bar"><span class="java"></span></span>
+      <p>Java</p><span class="bar"><span class="java"></span></span>
     </li>
     <li>
-      <h5>Python</h5><span class="bar"><span class="python"></span></span>
+      <p>Python</p><span class="bar"><span class="python"></span></span>
     </li>
   </div>
 
