@@ -106,22 +106,47 @@ more_content: |
         width: 40%;
       }
     }
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+      height: 300px; /* Should be removed. Only for demonstration */
+    }
+
+    /* Clear floats after the columns */
+    .skills:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+      }
     </style>
   
   <div class="skills">
-    <li>
-      <p>Java</p><span class="bar"><span class="java"></span></span>
-    </li>
-    <li>
-      <p>Python</p><span class="bar"><span class="python"></span></span>
-    </li>
-    <li>
-      <p>C++</p><span class="bar"><span class="cplus"></span></span>
-    </li>
-    <li>
-      <p>C</p><span class="bar"><span class="c"></span></span>
-    </li>
+    <div class="column">
+      <li>
+        <p>Java</p><span class="bar"><span class="java"></span></span>
+      </li>
+      <li>
+        <p>Python</p><span class="bar"><span class="python"></span></span>
+      </li>
+    </div>
+    <div class="column">
+      <li>
+        <p>C++</p><span class="bar"><span class="cplus"></span></span>
+      </li>
+      <li>
+        <p>C</p><span class="bar"><span class="c"></span></span>
+      </li>
+    </div>
   </div>
+
 
 
 # Projects Section
