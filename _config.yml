@@ -7,7 +7,7 @@ name: Shanuj Shekhar
 title: Stony Brook Graduate Student
 email: shanuj.shekhar@stonybrook.edu
 website: https://shanujshekhar.github.io
-resume: https://shanujshekhar.github.io/resume.pdf
+resume: https://shanujshekhar.github.io/Shanuj_Shekhar_CV.pdf
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -56,6 +56,7 @@ more_content: |
       float: left;
       background: #e6e6e6;
     }
+    
     .java{
       width: 90%;
       animation: java 2s;
@@ -63,6 +64,14 @@ more_content: |
     .python{
       width: 80%;
       animation: python 2s;
+    }
+    .cplus{
+      width: 70%;
+      animation: cplus 2s;
+    }
+    .c{
+      width: 40%;
+      animation: c 2s;
     }
     
     @keyframes java{
@@ -73,13 +82,28 @@ more_content: |
         width: 90%;
       }
     }
-    
     @keyframes python{
       0%{
         width: 0%;
       }
       100%{
         width: 80%;
+      }
+    }
+    @keyframes cplus{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 70%;
+      }
+    }
+    @keyframes c{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 40%;
       }
     }
     </style>
@@ -90,6 +114,12 @@ more_content: |
     </li>
     <li>
       <p>Python</p><span class="bar"><span class="python"></span></span>
+    </li>
+    <li>
+      <p>C++</p><span class="bar"><span class="cplus"></span></span>
+    </li>
+    <li>
+      <p>C</p><span class="bar"><span class="c"></span></span>
     </li>
   </div>
 
