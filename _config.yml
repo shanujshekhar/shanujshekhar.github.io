@@ -135,6 +135,32 @@ more_content: |
       }
     }
     
+    .ml{
+      width: 75%;
+      animation: ml 2s;
+    }
+    @keyframes ml{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 75%;
+      }
+    }
+    
+    .data_ana{
+      width: 80%;
+      animation: data_ana 2s;
+    }
+    @keyframes data_ana{
+      0%{
+        width: 0%;
+      }
+      100%{
+        width: 80%;
+      }
+    }
+    
     /* Create two equal columns that floats next to each other */
     .column {
       float: left;
@@ -168,6 +194,9 @@ more_content: |
       <li>
         <p>C#</p><div style="float:right;">45%</div><span class="bar"><span class="csharp"></span></span>
       </li>
+      <li>
+        <p>Machine Learning</p><div style="float:right;">75%</div><span class="bar"><span class="ml"></span></span>
+      </li>
     </div>
     <div class="column">
       <li>
@@ -178,6 +207,9 @@ more_content: |
       </li>
       <li>
         <p>C</p><div style="float:right;">40%</div><span class="bar"><span class="c"></span></span>
+      </li>
+      <li>
+        <p>Data Analysis</p><div style="float:right;">80%</div><span class="bar"><span class="data_ana"></span></span>
       </li>
     </div>
   </div>
