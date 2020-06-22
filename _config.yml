@@ -122,7 +122,7 @@ more_content: |
         width: 40%;
       }
     }
-    @keyframes front-end{
+    @keyframes front_end{
       0%{
         width: 0%;
       }
