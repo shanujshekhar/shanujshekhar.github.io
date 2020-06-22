@@ -53,7 +53,7 @@ more_content: |
     }
     .bar span{
       height: 10px;
-      float: left;
+      float: right;
       background: #e6e6e6;
     }
     
