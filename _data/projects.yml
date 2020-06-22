@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: Smart IoT Climate Control System
   dates: January 2020 - Ongoing
   github: shanujshekhar/Smart-IOT-Climate-Control-System
@@ -9,7 +9,7 @@
     
     Languages and Tools Used: Python, Deep Neural Networks, PyTorch
 
-- layout: right
+- layout: top-middle
   name: D3 Visualization of COVID-19 Pandemic
   dates: March 2020
   link: https://www.youtube.com/watch?v=3fKE13DtB70&feature=youtu.be
@@ -21,7 +21,7 @@
     
     Languages and Tools Used: Python, D3.js, HTML, CSS, Javascript, Flask
 
-- layout: left
+- layout: top-middle
   name: Detect Heavy Drinking Episodes
   dates: February 2020
   github: shanujshekhar/Detect_Heavy_Drinking_Episodes
@@ -32,7 +32,7 @@
     
     Languages and Tools Used: Python, scikit, sklearn
     
-- layout: right
+- layout: top-middle
   name: Augmented Reality Video Game using Unity Tool
   dates: January 2020
   github: shanujshekhar/Augmented_Reality_Video_Game_using_Unity_Tool
@@ -43,8 +43,8 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
 
-- layout: left
-  name: Knowledge-backed Generation Model Using Post-Modifier Dataset (PoMo)
+- layout: top-middle
+  name: Generating entity descriptors (Post-Modifiers) based on context
   dates: November 2019
   github: shanujshekhar/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
@@ -59,7 +59,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy
 
-- layout: right
+- layout: top-middle
   name: Emotion Recognition for Real-Time Feedback
   dates: June 2019
   github: shanujshekhar/Emotion_Recognition
@@ -70,7 +70,7 @@
     
     Languages and Tools Used: Python, scikit-learn, numpy, OpenCV
 
-- layout: left
+- layout: top-middle
   name: Interactive Space Exploration Video Game in Virtual Reality using Unity Tool
   dates: March 2020
   github: shanujshekhar/Space_Exploration_Game_Unity_Tool
@@ -83,7 +83,7 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Oculus Quest (HMD, 64GB)
 
-- layout: right
+- layout: top-middle
   name: Term Frequency per Inverse Document Frequency
   dates: Febraury 2017
   github: shanujshekhar/TFIDF
@@ -96,7 +96,7 @@
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
 
-- layout: left
+- layout: top-middle
   name: Chat-Application
   dates: June 2016
   github: shanujshekhar/Chat_Application
@@ -106,38 +106,3 @@
     Topic: Web Development
     
     Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
-
-- layout: right
-  name: Relation Classification in NLP
-  dates: October 2019
-  github: shanujshekhar/Relation_Classification_in_NLP
-  description: |
-    Given 10 predefined relations like cause-effect, product-producer, etc, the goal was to define the relation and the direction of the relation b/w 2 entities in a sentence. I did this relation classification task in Python using Tensorflow library. I already had the pre-trained word embedding (glove) to train the data available. I had to setup Parts of Speech tag embedding and parse the shortest dependancy path b/w the 2 entities to build the model and then generate predictions.
-    
-    Topic: Natural Language Processing, Convolutional Neural Networks
-    
-    Languages and Tools Used: Python, scikit-learn, numpy
-
-- layout: left
-  name: Machine Learning Algorithms from scratch
-  dates: January 2020
-  github: shanujshekhar/ML_Algorithms_from_scratch_python
-  description: |
-    Implementation of Machine Learning Algorithms in python from scratch. This repository contains the implementations of popular Machine Learning Algorithms in python without using in-built libraries. 
-    (1) Perceptron Learning Algorithm (perceptron.py); (2) Adaptive Boosting Algorithm (adaBoost.py); (3) K-Means Clustering (kmeans.py); (4) K Nearest Neighbour Classifier (knn.py); (5) Support Vector Machine Classifier (svm.py)
-    
-    Topic: Machine Learning
-    
-    Languages and Tools Used: Python, scikit-learn, numpy
-
-- layout: right
-  name: Visual Data Analytics
-  dates: April 2020
-  link: https://www.youtube.com/watch?v=tTgrkyfKcsM&t=3s
-  github: shanujshekhar/Visual_Data_Analytics
-  description: |
-    Performing common visual data analytic tasks using Python and D3.js. I performed Principal Component Analysis, Multi-Dimensional Scaling alongwith random & stratified sampling. Visualizaed scatter plot matrix, scree plot and elbow plot.
-    
-    Topic: Data Visualization
-    
-    Languages and Tools Used: Python, D3.js, Flask, HTML, CSS Javascript
