@@ -160,7 +160,7 @@ more_content: |
   <div class="skills">
     <div class="column">
       <li>
-        <p>Java</p><div style="float:right;">90%</div><span class="bar"><span class="java"></span></span>
+        <p>Java</p><div style="float:right;">90%</div><span class="bar">90%<span class="java"></span></span>
       </li>
       <li>
         <p>Python</p><div style="float:right;">85%</div><span class="bar"><span class="python"></span></span>
