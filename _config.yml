@@ -195,7 +195,7 @@ more_content: |
         <p>C#</p><div style="float:right;">45%</div><span class="bar"><span class="csharp"></span></span>
       </li>
       <li>
-        <p>Machine Learning</p><div style="float:right;">75%</div><span class="bar"><span class="ml"></span></span>
+        <p>Machine Learning Tools</p><div style="float:right;">75%</div><span class="bar"><span class="ml"></span></span>
       </li>
     </div>
     <div class="column">
@@ -209,7 +209,7 @@ more_content: |
         <p>C</p><div style="float:right;">40%</div><span class="bar"><span class="c"></span></span>
       </li>
       <li>
-        <p>Data Analysis</p><div style="float:right;">80%</div><span class="bar"><span class="data_ana"></span></span>
+        <p>Data Analysis Tools</p><div style="float:right;">80%</div><span class="bar"><span class="data_ana"></span></span>
       </li>
     </div>
   </div>
