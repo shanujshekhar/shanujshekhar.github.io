@@ -19,7 +19,7 @@
     
     Topic: Data Visualization, Front-end Development
     
-    Languages and Tools Used: Python, D3.js, HTML, CSS, Javascript, Flask
+    Languages and Tools Used: <mark>Python</mark>, <mark>D3.js</mark>, <mark>HTML5, <mark>CSS3</mark>, <mark>Javascript</mark>, <mark>Flask</mark>
 
 - layout: top-middle
   name: Detect Heavy Drinking Episodes
@@ -30,7 +30,7 @@
     
     Topic: Machine Learning
     
-    Languages and Tools Used: Python, scikit, sklearn
+    Languages and Tools Used: <mark>Python</mark>, <mark>scikit</mark>, <mark>sklearn</mark>
     
 - layout: top-middle
   name: Augmented Reality Video Game using Unity Tool
@@ -41,7 +41,7 @@
     
     Topic: Virtual Reality
     
-    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
+    Languages and Tools Used: <mark>C#</mark>, <mark>Unity Tool</mark>, <mark>Blender 3.0</mark>, <mark>Vuforia</mark>
 
 - layout: top-middle
   name: Generating entity descriptors (Post-Modifiers) based on context
@@ -54,7 +54,7 @@
     
     Topic: Natural Language Processing, Recurrent Neural Networks
     
-    Languages and Tools Used: Python, scikit-learn, numpy
+    Languages and Tools Used: <mark>Python</mark>, <mark>scikit-learn</mark>, <mark>numpy</mark>
 
 - layout: top-middle
   name: Emotion Recognition for Real-Time Feedback
@@ -65,7 +65,7 @@
     
     Topic: Machine Learning, Support Vector Machine
     
-    Languages and Tools Used: Python, scikit-learn, numpy, OpenCV
+    Languages and Tools Used: <mark>Python</mark>, <mark>scikit-learn</mark>, <mark>numpy</mark>, <mark>OpenCV</mark>
 
 - layout: top-middle
   name: Chat-Application
@@ -89,7 +89,7 @@
     
     Topic: Virtual Reality
     
-    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
+    Languages and Tools Used: <mark>C#</mark>, <mark>Unity Tool</mark>, <mark>Blender 3.0</mark>, <mark>Vuforia</mark>
     
 - layout: top-middle
   name: Interactive Space Exploration Video Game in Virtual Reality using Unity Tool
@@ -102,5 +102,5 @@
     
     Topic: Virtual Reality
     
-    Languages and Tools Used: C#, Unity Tool, Blender 3.0, Oculus Quest (HMD, 64GB)
+    Languages and Tools Used: <mark>C#</mark>, <mark>Unity Tool</mark>, <mark>Blender 3.0</mark>, <mark>Oculus Quest</mark> (HMD, 64GB)
 
