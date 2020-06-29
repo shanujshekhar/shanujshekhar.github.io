@@ -68,6 +68,17 @@
     Languages and Tools Used: Python, scikit-learn, numpy, OpenCV
 
 - layout: top-middle
+  name: Chat-Application
+  dates: June 2016
+  github: shanujshekhar/Chat_Application
+  quote: >
+    Server-Client side scripting of Chat Application
+  description: |
+    Topic: Web Development
+    
+    Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
+
+- layout: top-middle
   name: Term Frequency per Inverse Document Frequency
   dates: Febraury 2017
   github: shanujshekhar/TFIDF
@@ -79,17 +90,6 @@
     Topic: Virtual Reality
     
     Languages and Tools Used: C#, Unity Tool, Blender 3.0, Vuforia
-
-- layout: top-middle
-  name: Chat-Application
-  dates: June 2016
-  github: shanujshekhar/Chat_Application
-  quote: >
-    Server-Client side scripting of Chat Application
-  description: |
-    Topic: Web Development
-    
-    Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
     
 - layout: top-middle
   name: Interactive Space Exploration Video Game in Virtual Reality using Unity Tool
