@@ -9,7 +9,7 @@
     
     Implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification), with an accuracy of 80%, after parsing them using standard NLP techniques.
     
-    Languages and Tools Used: <mark>Python</mark>, <mark>HTML5/CSS3/Javascript</mark>, <mark>Flask</mark>, <mark>Heroku</mark> 
+    Languages and Tools Used: <mark>Python</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Javascript</mark> <mark>Flask</mark> <mark>Heroku</mark> 
 
 - company: Cadence Design Systems, Inc.
   dates: June 2018
@@ -19,7 +19,7 @@
     
     In this project, text detected from Microprocessor pin diagrams using Tesseract Tool (Tesseract is an optical character recognition engine for various operating systems) is used for improving the text detection accuracy. Extracted text from Microprocessor Pin Diagram images acts as input for generation of Bayesian Network (Dlib library). Using Posterior Probability concept text accuracy was improved.
     
-    Languages and Tools Used: <mark>C++</mark>, <mark>Microsoft Visual Studio 2017</mark>, <mark>Tesseract</mark>
+    Languages and Tools Used: <mark>C++</mark> <mark>Microsoft Visual Studio 2017</mark> <mark>Tesseract</mark>
 
 - company: National University of Technology, Delhi
   link: http://www.nsit.ac.in/
@@ -32,5 +32,5 @@
     
     Research Paper Published: <a href="http://www2.tku.edu.tw/~tkjse/21-3/catology.htm">Publication Link</a>
     
-    Languages and Tools Used: <mark>Java</mark>, <mark>Eclipse IDE</mark>, <mark>Selenium 2.0</mark>
+    Languages and Tools Used: <mark>Java</mark> <mark>Eclipse IDE</mark> <mark>Selenium 2.0</mark>
     
