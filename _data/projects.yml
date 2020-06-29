@@ -19,7 +19,7 @@
     
     Topic: Data Visualization, Front-end Development
     
-    Languages and Tools Used: <mark>Python</mark>, <mark>D3.js</mark>, <mark>HTML5, <mark>CSS3</mark>, <mark>Javascript</mark>, <mark>Flask</mark>
+    Languages and Tools Used: <mark>Python</mark>, <mark>D3.js</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, <mark>Javascript</mark>, <mark>Flask</mark>
 
 - layout: top-middle
   name: Detect Heavy Drinking Episodes
@@ -76,7 +76,7 @@
   description: |
     Topic: Web Development
     
-    Languages and Tools Used: node.js, nodemon, ngrok, HTML, CSS, Javascript
+    Languages and Tools Used: <mark>node.js</mark>, <mark>nodemon</mark>, <mark>ngrok</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, <mark>Javascript</mark>
 
 - layout: top-middle
   name: Term Frequency per Inverse Document Frequency
