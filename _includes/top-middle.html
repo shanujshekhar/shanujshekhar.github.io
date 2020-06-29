@@ -1,17 +1,17 @@
 <style>
-.projects-container .row .clearfix .layout .layout-top-middle{
+#card{
   box-shadow: -1px 1px 20px 6px rgb(233, 13, 13);
   transition: 0.3s;
   width: 40%;
   border-radius: 5px;
 }
 
-#for_hover:hover {
+#card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
 </style>
-<div id="for_hover" class="row clearfix layout layout-top-middle" style="box-shadow: -1px 1px 20px 6px rgb(233, 13, 13);transition: 0.3s;width: 40%;border-radius: 5px;">
+<div id="card" class="row clearfix layout layout-top-middle">
   <div class="col-xs-12 col-print-12 details">
     {%- if include.item.name -%}<h4>{{ include.item.name }}</h4>{%- endif -%}
     {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
