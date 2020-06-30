@@ -50,7 +50,7 @@
   quote: >
    I have generated phrases to describe an entity in a sentence using Natural Language Processing and Natural Language Understanding
   description: |    
-    The task of post modifier generation requires to automatically generate a post modifier phrase describing the target entity (an entity essentially refers to a noun but here we only consider people) that contextually fits in the input sentence. Model Architecture - Bi-LSTM (2 layer) model with attention function
+    The task of post modifier generation requires to automatically generate a post modifier phrase describing the target entity (an entity essentially refers to a noun but here we only consider people) that contextually fits in the input sentence.
     
     Topic: Natural Language Processing, Recurrent Neural Networks
     
