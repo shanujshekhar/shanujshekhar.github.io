@@ -73,7 +73,9 @@
   github: shanujshekhar/Chat_Application
   quote: >
     Server-Client side scripting of Chat Application
-  description: |
+  description: |  
+    This application allows multiple users to chat with each other. This is a very basic implemention of node.js and socket.io javascript modules. With the help of this application, users can chat irrespective of their locations.
+    
     Topic: Web Development
     
     Languages and Tools Used: <mark>node.js</mark> <mark>nodemon</mark> <mark>ngrok</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Javascript</mark>
@@ -87,6 +89,7 @@
     Performing common visual data analytic tasks using Python and D3.js.
   description: |
     Implemented Random Sampling and Stratified Sampling. Performed K-means Clustering for Stratified Sampling using Elbow Method and Dimension Reduction using PCA and MDS Analysis.
+    
     Topic: Data Visualization, Front-end Development
     
     Languages and Tools Used: <mark>Python</mark> <mark>D3.js</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Javascript</mark> <mark>Flask</mark>
