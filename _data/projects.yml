@@ -47,8 +47,6 @@
   name: Generating entity descriptors (Post-Modifiers) based on context
   dates: November 2019
   github: shanujshekhar/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  quote: >
-   I have generated phrases to describe an entity in a sentence using Natural Language Processing and Natural Language Understanding
   description: |    
     The task of post modifier generation requires to automatically generate a post modifier phrase describing the target entity (an entity essentially refers to a noun but here we only consider people) that contextually fits in the input sentence.
     
