@@ -79,6 +79,19 @@
     Languages and Tools Used: <mark>node.js</mark> <mark>nodemon</mark> <mark>ngrok</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Javascript</mark>
 
 - layout: top-middle
+  name: Visual Data Analytics
+  dates: Febraury 2020
+  link: https://www.youtube.com/watch?v=tTgrkyfKcsM&t=3s
+  github: shanujshekhar/Visual_Data_Analytics
+  quote: >
+    Performing common visual data analytic tasks using Python and D3.js.
+  description: |
+    Implemented Random Sampling and Stratified Sampling. Performed K-means Clustering for Stratified Sampling using Elbow Method and Dimension Reduction using PCA and MDS Analysis.
+    Topic: Data Visualization, Front-end Development
+    
+    Languages and Tools Used: <mark>Python</mark> <mark>D3.js</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Javascript</mark> <mark>Flask</mark>
+
+- layout: top-middle
   name: Term Frequency per Inverse Document Frequency
   dates: Febraury 2017
   github: shanujshekhar/TFIDF
