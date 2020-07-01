@@ -186,30 +186,30 @@ more_content: |
   <div class="skills">
     <div class="column">
       <li>
-        <p>Java</p><div style="float:right;">90%</div><span class="bar"><span class="java"></span></span>
+        <p>Java</p><div style="float:right;"></div><span class="bar"><span class="java"></span></span>
       </li>
       <li>
-        <p>Python</p><div style="float:right;">85%</div><span class="bar"><span class="python"></span></span>
+        <p>Python</p><div style="float:right;"></div><span class="bar"><span class="python"></span></span>
       </li>
       <li>
-        <p>C#</p><div style="float:right;">45%</div><span class="bar"><span class="csharp"></span></span>
+        <p>C#</p><div style="float:right;"></div><span class="bar"><span class="csharp"></span></span>
       </li>
       <li>
-        <p>Machine Learning Tools</p><div style="float:right;">75%</div><span class="bar"><span class="ml"></span></span>
+        <p>Machine Learning Tools</p><div style="float:right;"></div><span class="bar"><span class="ml"></span></span>
       </li>
     </div>
     <div class="column">
       <li>
-        <p>HTML/CSS/Javascript</p><div style="float:right;">85%</div><span class="bar"><span class="front_end"></span></span>
+        <p>HTML/CSS/Javascript</p><div style="float:right;"></div><span class="bar"><span class="front_end"></span></span>
       </li>
       <li>
-        <p>C++</p><div style="float:right;">70%</div><span class="bar"><span class="cplus"></span></span>
+        <p>C++</p><div style="float:right;"></div><span class="bar"><span class="cplus"></span></span>
       </li>
       <li>
-        <p>C</p><div style="float:right;">40%</div><span class="bar"><span class="c"></span></span>
+        <p>C</p><div style="float:right;"></div><span class="bar"><span class="c"></span></span>
       </li>
       <li>
-        <p>Data Analysis Tools</p><div style="float:right;">80%</div><span class="bar"><span class="data_ana"></span></span>
+        <p>Data Analysis Tools</p><div style="float:right;"></div><span class="bar"><span class="data_ana"></span></span>
       </li>
     </div>
   </div>
