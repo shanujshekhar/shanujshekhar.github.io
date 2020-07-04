@@ -1,5 +1,5 @@
 ## Personal Website
-<a href="https://shanujshekhar.github.io" target="_blank">https://shanujshekhar.github.io</a>
+<a href="https://shanujshekhar.github.io" target="_blank">shanujshekhar.github.io</a>
 
 
 ### Reference Template
